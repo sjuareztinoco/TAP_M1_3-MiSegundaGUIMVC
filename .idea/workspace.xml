@@ -1,0 +1,163 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="AutoImportSettings">
+    <option name="autoReloadType" value="SELECTIVE" />
+  </component>
+  <component name="ChangeListManager">
+    <list default="true" id="88948ce5-f1d0-4206-b68c-de5d004eb14a" name="Changes" comment="Proy inicial&#10;Primer MVC tanto con interfaz gráfica manual como con modo diseñador GUI en IntelliJ">
+      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/Main.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/Main.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/controlador/ControladorEspecialidad.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/vista/VistaEspecialidad.java" beforeDir="false" />
+    </list>
+    <option name="SHOW_DIALOG" value="false" />
+    <option name="HIGHLIGHT_CONFLICTS" value="true" />
+    <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
+    <option name="LAST_RESOLUTION" value="IGNORE" />
+  </component>
+  <component name="FileTemplateManagerImpl">
+    <option name="RECENT_TEMPLATES">
+      <list>
+        <option value="Class" />
+      </list>
+    </option>
+  </component>
+  <component name="Git.Settings">
+    <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$" />
+  </component>
+  <component name="MarkdownSettingsMigration">
+    <option name="stateVersion" value="1" />
+  </component>
+  <component name="ProjectId" id="2Nfppi53HF9UJpnb1eVOBxdsfFj" />
+  <component name="ProjectLevelVcsManager" settingsEditedManually="true" />
+  <component name="ProjectViewState">
+    <option name="hideEmptyMiddlePackages" value="true" />
+    <option name="showLibraryContents" value="true" />
+  </component>
+  <component name="PropertiesComponent">{
+  &quot;keyToString&quot;: {
+    &quot;RunOnceActivity.OpenProjectViewOnStart&quot;: &quot;true&quot;,
+    &quot;RunOnceActivity.ShowReadmeOnStart&quot;: &quot;true&quot;,
+    &quot;SHARE_PROJECT_CONFIGURATION_FILES&quot;: &quot;true&quot;,
+    &quot;WebServerToolWindowFactoryState&quot;: &quot;false&quot;,
+    &quot;node.js.detected.package.eslint&quot;: &quot;true&quot;,
+    &quot;node.js.detected.package.tslint&quot;: &quot;true&quot;,
+    &quot;node.js.selected.package.eslint&quot;: &quot;(autodetect)&quot;,
+    &quot;node.js.selected.package.tslint&quot;: &quot;(autodetect)&quot;,
+    &quot;project.structure.last.edited&quot;: &quot;Project&quot;,
+    &quot;project.structure.proportion&quot;: &quot;0.0&quot;,
+    &quot;project.structure.side.proportion&quot;: &quot;0.0&quot;,
+    &quot;settings.editor.selected.configurable&quot;: &quot;org.jetbrains.plugins.github.ui.GithubSettingsConfigurable&quot;,
+    &quot;vue.rearranger.settings.migration&quot;: &quot;true&quot;
+  }
+}</component>
+  <component name="RunManager">
+    <configuration name="Main" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="Main" />
+      <module name="MiPrimerMVC" />
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <recent_temporary>
+      <list>
+        <item itemvalue="Application.Main" />
+      </list>
+    </recent_temporary>
+  </component>
+  <component name="SpellCheckerSettings" RuntimeDictionaries="0" Folders="0" CustomDictionaries="0" DefaultDictionary="application-level" UseSingleDictionary="true" transferred="true" />
+  <component name="TaskManager">
+    <task active="true" id="Default" summary="Default task">
+      <changelist id="88948ce5-f1d0-4206-b68c-de5d004eb14a" name="Changes" comment="" />
+      <created>1680065177792</created>
+      <option name="number" value="Default" />
+      <option name="presentableId" value="Default" />
+      <updated>1680065177792</updated>
+      <workItem from="1680065179439" duration="3268000" />
+      <workItem from="1680126933088" duration="4216000" />
+      <workItem from="1680206151784" duration="1538000" />
+      <workItem from="1680207838087" duration="8318000" />
+      <workItem from="1680415497982" duration="316000" />
+      <workItem from="1680463420806" duration="59000" />
+      <workItem from="1680468127270" duration="119000" />
+      <workItem from="1680837834006" duration="322000" />
+      <workItem from="1680838256966" duration="82000" />
+      <workItem from="1680839729370" duration="1902000" />
+      <workItem from="1680842272898" duration="135000" />
+      <workItem from="1680842411328" duration="613000" />
+      <workItem from="1680849271231" duration="334000" />
+    </task>
+    <task id="LOCAL-00001" summary="Global(New):MiPrimerMVC&#10;Ejemplo de aplicación sencilla de la implementación del patrón de arquitectura MVC&#10;Ref#0&#10;Reviewed-by: SJT">
+      <created>1680125321192</created>
+      <option name="number" value="00001" />
+      <option name="presentableId" value="LOCAL-00001" />
+      <option name="project" value="LOCAL" />
+      <updated>1680125321192</updated>
+    </task>
+    <task id="LOCAL-00002" summary="Global(New):MiPrimerMVC&#10;Ejemplo de aplicación sencilla de la implementación del patrón de arquitectura MVC&#10;Ref#0&#10;Reviewed-by: SJT">
+      <created>1680125880643</created>
+      <option name="number" value="00002" />
+      <option name="presentableId" value="LOCAL-00002" />
+      <option name="project" value="LOCAL" />
+      <updated>1680125880643</updated>
+    </task>
+    <task id="LOCAL-00003" summary="Global(feat):Texto inicial&#10;Agrega un texto inicial en los campos de texto de la aplicación.&#10;Ref#8b44d6d&#10;Reviewed-by: LACC">
+      <created>1680127909833</created>
+      <option name="number" value="00003" />
+      <option name="presentableId" value="LOCAL-00003" />
+      <option name="project" value="LOCAL" />
+      <updated>1680127909833</updated>
+    </task>
+    <task id="LOCAL-00004" summary="Global(feat): Cambios de identado&#10;Cambio en la identación de algunas líneas de código para que posean mayor legibilidad&#10;Ref#90b4eed&#10;Reviewed-by: LACC">
+      <created>1680206269753</created>
+      <option name="number" value="00004" />
+      <option name="presentableId" value="LOCAL-00004" />
+      <option name="project" value="LOCAL" />
+      <updated>1680206269753</updated>
+    </task>
+    <task id="LOCAL-00005" summary="Global(update): Agregar gui desde intelliJ&#10;Ref#90b4eed&#10;Reviewed-by: LACC">
+      <created>1680211971951</created>
+      <option name="number" value="00005" />
+      <option name="presentableId" value="LOCAL-00005" />
+      <option name="project" value="LOCAL" />
+      <updated>1680211971951</updated>
+    </task>
+    <task id="LOCAL-00006" summary="Proy inicial&#10;Primer MVC tanto con interfaz gráfica manual como con modo diseñador GUI en IntelliJ">
+      <created>1680839987062</created>
+      <option name="number" value="00006" />
+      <option name="presentableId" value="LOCAL-00006" />
+      <option name="project" value="LOCAL" />
+      <updated>1680839987062</updated>
+    </task>
+    <option name="localTasksCounter" value="7" />
+    <servers />
+  </component>
+  <component name="TypeScriptGeneratedFilesManager">
+    <option name="version" value="3" />
+  </component>
+  <component name="Vcs.Log.Tabs.Properties">
+    <option name="TAB_STATES">
+      <map>
+        <entry key="MAIN">
+          <value>
+            <State />
+          </value>
+        </entry>
+      </map>
+    </option>
+  </component>
+  <component name="VcsManagerConfiguration">
+    <ignored-roots>
+      <path value="$PROJECT_DIR$" />
+    </ignored-roots>
+    <MESSAGE value="Global(New):MiPrimerMVC&#10;Ejemplo de aplicación sencilla de la implementación del patrón de arquitectura MVC&#10;Ref#0&#10;Reviewed-by: SJT" />
+    <MESSAGE value="Global(feat):Texto inicial&#10;Agrega un texto inicial en los campos de texto de la aplicación.&#10;Ref#8b44d6d&#10;Reviewed-by: LACC" />
+    <MESSAGE value="Global(feat): Cambios de identado&#10;Cambio en la identación de algunas líneas de código para que posean mayor legibilidad&#10;Ref#90b4eed&#10;Reviewed-by: LACC" />
+    <MESSAGE value="Global(update): Agregar gui desde intelliJ&#10;Ref#90b4eed&#10;Reviewed-by: LACC" />
+    <MESSAGE value="Proy inicial&#10;Primer MVC tanto con interfaz gráfica manual como con modo diseñador GUI en IntelliJ" />
+    <option name="LAST_COMMIT_MESSAGE" value="Proy inicial&#10;Primer MVC tanto con interfaz gráfica manual como con modo diseñador GUI en IntelliJ" />
+  </component>
+  <component name="com.intellij.coverage.CoverageDataManagerImpl">
+    <SUITE FILE_PATH="coverage/MiPrimerMVC$Main.ic" NAME="Main Coverage Results" MODIFIED="1680124909483" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="idea" COVERAGE_BY_TEST_ENABLED="false" COVERAGE_TRACING_ENABLED="false" />
+  </component>
+</project>
